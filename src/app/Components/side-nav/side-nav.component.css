@@ -1,0 +1,32 @@
+.logo{
+  text-align:center;
+  padding:1rem 0.5rem;
+}
+  img{
+    width :150px;
+    height:40px;
+}
+.mat-icon{
+  color: white;
+  vertical-align: center;
+  margin-right: 1rem;
+}
+.mat-divider{
+  border-top-width: 2px;
+  border-color: white;
+}
+.mat-list-item{
+  font-size: 0.8rem;
+  height: 44px;
+  margin-bottom: 4px;
+}
+.sidebar{
+  color: white;
+}
+.dashboard{
+ background:#673ab7 ;
+}
+span{
+  color: white;
+  font-weight:400;
+}
